@@ -277,7 +277,7 @@ Client Logic
 * Filtering
 * Data Management
 
-## Sington
+## Singitan
 
 Real-Time Collaboration
 
@@ -309,8 +309,8 @@ Advanced Programming Project
 
 Developed by:
 
-* Selman
-* Seyfadin
-* Singitan
+* Selman Awel  ...ETS 1263/16
+* Seyfadin Abdela ...ETS1273/16
+* Singitan Niguse ...ETS1290/16
 
-Academic Year: 2025/2026
+Academic Year: 2018 EC
